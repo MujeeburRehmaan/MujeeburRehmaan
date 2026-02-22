@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🎓 6th Semester BS Computer Science Student
+- 🎓 7th Semester BS Computer Science Student
 - 💻 Currently focusing on Full Stack Development (MERN)
 - 🔍 Actively looking for Internship Opportunities
 - 🌱 Learning Backend & API Development
