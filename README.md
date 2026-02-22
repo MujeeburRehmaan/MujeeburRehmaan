@@ -1,62 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mujeeb ur Rehman</h1>
-<h3 align="center">🚀 BSCS Student | Aspiring Full Stack Developer | MERN Stack Learner</h3>
+<h1 align="center">👾 Hey, I'm Mujeeb ur Rehman 👾</h1>
+<h3 align="center">🕹️ BSCS Student | Future Full Stack Dev | MERN Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Arcade;Code.+Build.+Level+Up.;Future+Full+Stack+Developer;Internship+Hunter+Mode+ON+🔥" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧬 PLAYER PROFILE
 
-- 🎓 7th Semester BS Computer Science Student
-- 💻 Currently focusing on Full Stack Development (MERN)
-- 🌱 Learning Backend & API Development
-- 📍 Based in Lahore, Pakistan
+```diff
++ Name: Mujeeb ur Rehman
++ Location: Lahore, Pakistan
++ Level: BSCS - 6th Semester
++ Current Mission: Get Full Stack Internship
++ Status: Grinding XP Daily 🚀
+```
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ POWER UPS (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 PLAYER STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🧠 SKILL TREE
 
-- 🎬 Movie Search App (API Based)
-- 🌐 Personal Portfolio Website
-- 🛒 E-commerce UI Design
-- 📦 REST API Project (Node.js)
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Land a Full Stack Internship
-- ✅ Build 5 Production-Level Projects
-- ✅ Contribute to Open Source
-- ✅ Master Backend Development
+- 🌐 Frontend Development
+- ⚙️ Backend APIs
+- 🗄️ Database Design
+- 🔐 Authentication Systems
+- 🚀 Deployment Basics
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 2026 QUEST LOG
+
+- 🏆 Land Full Stack Internship
+- 🛠️ Build 5 Advanced Projects
+- 🌍 Deploy Real World Apps
+- 🤝 Contribute to Open Source
+
+---
+
+## 📡 CONNECT TO SERVER
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
@@ -69,19 +71,10 @@
 
 ---
 
-⭐️ From [Mujeeb ur Rehman](https://github.com/MujeeburRehmaan)## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00ff00&style=flat" />
+</p>
 
-<!--
-**MujeeburRehmaan/MujeeburRehmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🎮 GAME OVER? NEVER. LEVELING UP DAILY.</h3>
