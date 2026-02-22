@@ -13,7 +13,6 @@
 
 - 🎓 7th Semester BS Computer Science Student
 - 💻 Currently focusing on Full Stack Development (MERN)
-- 🔍 Actively looking for Internship Opportunities
 - 🌱 Learning Backend & API Development
 - 📍 Based in Lahore, Pakistan
 
@@ -70,7 +69,7 @@
 
 ---
 
-⭐️ From [Mujeeb ur Rehman](https://github.com/YOUR_USERNAME)## Hi there 👋
+⭐️ From [Mujeeb ur Rehman](https://github.com/MujeeburRehmaan)## Hi there 👋
 
 <!--
 **MujeeburRehmaan/MujeeburRehmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
