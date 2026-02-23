@@ -1,80 +1,62 @@
-<h1 align="center">👾 Hey, I'm Mujeeb ur Rehman 👾</h1>
-<h3 align="center">🕹️ BSCS Student | Future Full Stack Dev | MERN Explorer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Arcade;Code.+Build.+Level+Up.;Future+Full+Stack+Developer;Internship+Hunter+Mode+ON+🔥" />
-</p>
+# 👋 Hi, I'm Mujeeb ur Rehman
+### Full Stack Developer (MERN) | BSCS Student 
 
 ---
 
-## 🧬 PLAYER PROFILE
+## 🧑‍💻 About Me
 
-```diff
-+ Name: Mujeeb ur Rehman
-+ Location: Lahore, Pakistan
-+ Level: BSCS - 6th Semester
-+ Current Mission: Get Full Stack Internship
-+ Status: Grinding XP Daily 🚀
-```
+I'm a 7th-semester Computer Science student with a focused interest in building production-grade web applications using the MERN stack. My goal is to secure a **Full Stack Developer internship in 2026** where I can contribute real value, sharpen my engineering skills, and grow alongside an experienced team. I don't just learn frameworks — I build with them.
 
 ---
 
-## 🛠️ POWER UPS (Tech Stack)
+## ⚙️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 PLAYER STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🧠 SKILL TREE
+## 🚀 What I'm Working On
 
-- 🌐 Frontend Development
-- ⚙️ Backend APIs
-- 🗄️ Database Design
-- 🔐 Authentication Systems
-- 🚀 Deployment Basics
+- **Advanced full-stack projects** — end-to-end MERN applications with real-world architecture and clean code practices
+- **Backend APIs with authentication** — building secure REST APIs using JWT, bcrypt, and role-based access control with Express and MongoDB
+- **Deploying real-world apps** — shipping projects to production using platforms like Vercel, Render, and Railway
 
 ---
 
-## 🎯 2026 QUEST LOG
-
-- 🏆 Land Full Stack Internship
-- 🛠️ Build 5 Advanced Projects
-- 🌍 Deploy Real World Apps
-- 🤝 Contribute to Open Source
 
 ---
 
-## 📡 CONNECT TO SERVER
+## 💼 Why Hire Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+- **Execution-focused** — I build working, deployed projects, not just tutorial clones
+- **Full-stack capable** — comfortable owning the frontend, backend, database, and deployment pipeline
+- **Fast learner** — I ramp up on new tools and requirements quickly without handholding
+- **Clean collaborator** — I use Git workflows, write readable code, and communicate clearly
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00ff00&style=flat" />
-</p>
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujeeb-ur-rehman-3b77b5294/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mujeeburrehmana@gmail.com)
 
 ---
 
-<h3 align="center">🎮 GAME OVER? NEVER. LEVELING UP DAILY.</h3>
+## 📊 GitHub Stats
+
+![Mujeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujeeburRehmaan&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MujeeburRehmaan&layout=compact&theme=dark&hide_border=true)
+
+---
+
+*Available for internship opportunities starting 2026 — let's build something that matters.*
