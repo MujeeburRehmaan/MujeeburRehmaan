@@ -33,18 +33,6 @@ I'm a 7th-semester Computer Science student with a focused interest in building 
 
 ---
 
-
----
-
-## 💼 Why Hire Me
-
-- **Execution-focused** — I build working, deployed projects, not just tutorial clones
-- **Full-stack capable** — comfortable owning the frontend, backend, database, and deployment pipeline
-- **Fast learner** — I ramp up on new tools and requirements quickly without handholding
-- **Clean collaborator** — I use Git workflows, write readable code, and communicate clearly
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujeeb-ur-rehman-3b77b5294/)
