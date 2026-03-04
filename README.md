@@ -40,11 +40,4 @@ I'm a 7th-semester Computer Science student with a focused interest in building 
 
 ---
 
-## 📊 GitHub Stats
-
-![Mujeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujeeburRehmaan&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MujeeburRehmaan&layout=compact&theme=dark&hide_border=true)
-
----
-
 *Available for internship opportunities starting 2026 — let's build something that matters.*
