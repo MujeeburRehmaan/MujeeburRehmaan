@@ -93,7 +93,7 @@ const mujeeb = {
 | Project | Stack | Status |
 |---|---|---|
 | 🛒 E-Commerce Platform | React, Node, Express, MongoDB | 🔧 In Progress |
-| 🔐 Auth System with RBAC | JWT, bcrypt, Express, MongoDB | ✅ Complete |
+| 🔐 Auth System with RBAC | JWT,Bootstrap, MongoDB | ✅ Complete |
 | 📝 Full-Stack Blog App | MERN + Cloudinary | 🔧 In Progress |
 | 🚀 Personal Portfolio | React, Tailwind CSS | 📋 Planned |
 
