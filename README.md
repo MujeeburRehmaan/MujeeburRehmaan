@@ -79,15 +79,7 @@ const mujeeb = {
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mujeeb-ur-rehman&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
