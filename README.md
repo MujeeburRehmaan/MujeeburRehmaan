@@ -27,7 +27,7 @@ const mujeeb = {
                "Mastering backend auth with JWT & RBAC",
                "Shipping projects to Vercel, Render & Railway"],
   mindset:    "I don't just learn frameworks — I build with them.",
-  contact:    "Mujeeburrehmana@gmail.com",
+  contact:    "Mujeeburrehmana09@gmail.com",
 };
 ```
 
